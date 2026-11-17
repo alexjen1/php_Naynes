@@ -5,4 +5,5 @@
     <p class="mb-0">
         Welcome to the Admin Dashboard. Here you can manage the admission system, view applications, and perform administrative tasks.
     </p>
+    <h1>Admin Dashboard</h1>
 @endsection

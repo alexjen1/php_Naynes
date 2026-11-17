@@ -64,3 +64,4 @@ class HomeController extends Controller
         return 'Page: ' . $page;
     }
 }
+
